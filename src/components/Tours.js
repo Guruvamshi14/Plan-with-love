@@ -7,9 +7,9 @@ import Card from './Card';
 function Tours({tours,removeTour}){
 
 
-    function c(){
-        console.log(tours);
-    }
+    // function c(){
+    //     console.log(tours);
+    // }
 
 
     return (
