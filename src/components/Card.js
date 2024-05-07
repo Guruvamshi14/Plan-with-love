@@ -19,7 +19,7 @@ function Card({id,image,info,price,name,removeTour}){
         <div>
 
         <div className="card">
-            <img src={image} className="image"></img>
+            <img src={image} className="image" alt="Image"></img>
 
             <div className="tour-info">
 
