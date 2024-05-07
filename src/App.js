@@ -25,9 +25,9 @@ const App = () => {
     )
   }
 
-  function c(){
-    console.log(tour);
-  }
+  // function c(){
+  //   console.log(tour);
+  // }
 
   return (
       <div>
